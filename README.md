@@ -14,6 +14,8 @@ Este es un script en Batch para Windows que convierte automáticamente todos los
 - [FFmpeg](https://ffmpeg.org/download.html) instalado y configurado en el sistema.
 - Windows 7 o superior.
 
+
+- [FFmpeg](https://phoenixnap.com/kb/ffmpeg-windows) Guia de phoenixnap.com (Solo la traduci).
 ## Instalación de FFmpeg en Windows
 
 Para instalar FFmpeg en Windows, es necesario agregar la utilidad a la variable de entorno PATH. A continuación, te explicamos cómo hacerlo:
