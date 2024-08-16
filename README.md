@@ -28,7 +28,9 @@ Para instalar FFmpeg en Windows, es necesario agregar la utilidad a la variable 
    ![Elegir compilación de Windows](guia/1.png)
    
 3. En la sección **git master builds**, busca la última versión de la compilación de FFmpeg y haz clic en el enlace `ffmpeg-git-full-7z` para descargar la versión completa.
-     ![elegir version](guia/2.png)  
+     
+![elegir version](guia/2.png)  
+
 4. Elige la ubicación de la descarga y guarda el archivo si no comienza automáticamente.
 
 ### Paso 2: Extraer los archivos descargados
